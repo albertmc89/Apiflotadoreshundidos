@@ -1,76 +1,124 @@
 {
   "harry_potter": [
     {
-      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "id": "1",
       "image": "https://ik.imagekit.io/hpapi/harry.jpg",
       "name": "Harry Potter",
       "house": "Gryffindor",
       "dateOfBirth": "31-07-1980",
       "ancestry": "half-blood",
-      "patronus": "stag"
+      "patronus": "stag",
+      "hogwartsStudent": true,
+      "hogwartsStaff": false,
+      "description": "Harry Potter, a young wizard, discovers his magical heritage at Hogwarts School. With friends Ron and Hermione, he faces dark forces, including the evil Lord Voldemort. An enchanting tale of magic, friendship, and bravery captivates readers worldwide."
     },
     {
-      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "id": "2",
       "image": "https://ik.imagekit.io/hpapi/hermione.jpeg",
       "name": "Hermione Granger",
       "house": "Gryffindor",
       "dateOfBirth": "19-09-1979",
       "ancestry": "muggleborn",
-      "patronus": "otter"
+      "patronus": "otter",
+      "hogwartsStudent": true,
+      "hogwartsStaff": false,
+      "description": "Hermione Granger, a brilliant and resourceful witch in the 'Harry Potter' series, is Harry's loyal friend and Ron's clever companion. Her vast knowledge, dedication to justice, and unwavering bravery make her an indispensable part of their adventures at Hogwarts School of Witchcraft and Wizardry."
     },
     {
-      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
-      "image": "https://ik.imagekit.io/hpapi/cho.jpg",
-      "name": "Cho Chang",
-      "house": "Ravenclaw",
-      "dateOfBirth": "07-04-1979",
-      "ancestry": "half-blood",
-      "patronus": "swan"
+      "id": "3",
+      "image": "https://ik.imagekit.io/hpapi/ron.jpg",
+      "name": "Ron Weasley",
+      "house": "Gryffindor",
+      "dateOfBirth": "01-03-1980",
+      "ancestry": "pure-blood",
+      "patronus": "Jack Russell terrier",
+      "hogwartsStudent": true,
+      "hogwartsStaff": false,
+      "description": "Ron Weasley, a lovable character from the 'Harry Potter' series, is Harry's best friend and Hermione's loyal companion. Despite coming from a large, humble wizarding family, Ron's courage, humor, and unwavering loyalty make him an essential member of the trio as they face challenges at Hogwarts School of Witchcraft and Wizardry."
     },
     {
-      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
-      "image": "https://ik.imagekit.io/hpapi/snape.jpg",
-      "name": "Severus Snape",
+      "id": "4",
+      "image": "https://ik.imagekit.io/hpapi/draco.jpg",
+      "name": "Draco Malfoy",
       "house": "Slytherin",
-      "dateOfBirth": "09-01-1960",
-      "ancestry": "half-blood",
-      "patronus": "doe"
+      "dateOfBirth": "05-06-1980",
+      "ancestry": "pure-blood",
+      "patronus": "",
+      "hogwartsStudent": true,
+      "hogwartsStaff": false,
+      "description": "Draco Malfoy, a key character in the 'Harry Potter' series, is a cunning and arrogant Slytherin student at Hogwarts. His family's dark reputation and rivalry with Harry put him on a path of conflict, but he struggles with his own choices as he navigates the complex world of magic and morality."
     },
     {
-      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
-      "image": "https://ik.imagekit.io/hpapi/luna.jpg",
-      "name": "Luna Lovegood",
-      "house": "Ravenclaw",
-      "dateOfBirth": "13-02-1981",
-      "ancestry": "half-blood",
-      "patronus": "hare"
-    },
-    {
-      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
-      "image": "https://ik.imagekit.io/hpapi/voldemort.jpg",
-      "name": "Lord Voldemort",
-      "house": "Slytherin",
-      "dateOfBirth": "31-12-1926",
-      "ancestry": "half-blood",
-      "patronus": ""
-    },
-    {
-      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
-      "image": "https://ik.imagekit.io/hpapi/cedric.png",
-      "name": "Cedric Diggory",
-      "house": "Hufflepuff",
-      "dateOfBirth": "09-04-1977",
-      "ancestry": "half-blood",
-      "patronus": ""
-    },
-    {
-      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "id": "5",
       "image": "https://ik.imagekit.io/hpapi/mcgonagall.jpg",
       "name": "Minerva McGonagall",
       "house": "Gryffindor",
       "dateOfBirth": "04-10-1925",
       "ancestry": "half-blood",
-      "patronus": "tabby cat"
+      "patronus": "tabby cat",
+      "hogwartsStudent": false,
+      "hogwartsStaff": false,
+      "description": "Minerva McGonagall, a stern yet fair Hogwarts professor in the 'Harry Potter' series, is the Deputy Headmistress and Transfiguration teacher. With her animagus ability as a cat, she guides and protects students, including Harry, while upholding the school's traditions and values."
+    },
+    {
+      "id": "6",
+      "image": "https://ik.imagekit.io/hpapi/cho.jpg",
+      "name": "Cho Chang",
+      "house": "Ravenclaw",
+      "dateOfBirth": "07-04-1979",
+      "ancestry": "half-blood",
+      "patronus": "swan",
+      "hogwartsStudent": true,
+      "hogwartsStaff": false,
+      "description": "Cho Chang, a character in the 'Harry Potter' series, is a Ravenclaw student at Hogwarts. As Harry's first crush, she is kind and skilled in Quidditch. Cho faces heartache and adversity, becoming a symbol of resilience and strength amidst the challenges of the wizarding world."
+    },
+    {
+      "id": "7",
+      "image": "https://ik.imagekit.io/hpapi/snape.jpg",
+      "name": "Severus Snape",
+      "house": "Slytherin",
+      "dateOfBirth": "09-01-1960",
+      "ancestry": "half-blood",
+      "patronus": "doe",
+      "hogwartsStudent": false,
+      "hogwartsStaff": true,
+      "description": "Severus Snape, a complex character in the 'Harry Potter' series, is a skilled Potions Master and professor at Hogwarts. His dark demeanor hides a hidden loyalty and love for Lily Potter. He plays a pivotal role in protecting Harry while grappling with his past as a former Death Eater and his ambiguous alliances in the wizarding war."
+    },
+    {
+      "id": "8",
+      "image": "https://ik.imagekit.io/hpapi/luna.jpg",
+      "name": "Luna Lovegood",
+      "house": "Ravenclaw",
+      "dateOfBirth": "13-02-1981",
+      "ancestry": "half-blood",
+      "patronus": "hare",
+      "hogwartsStudent": true,
+      "hogwartsStaff": false,
+      "description": "Luna Lovegood, a whimsical and unique character in the 'Harry Potter' series, is a Ravenclaw student known for her belief in magical creatures and extraordinary theories. Her open-mindedness, kindness, and unwavering loyalty make her a cherished friend to Harry and the trio, adding a touch of wonder to their adventures at Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "id": "9",
+      "image": "https://ik.imagekit.io/hpapi/voldemort.jpg",
+      "name": "Lord Voldemort",
+      "house": "Slytherin",
+      "dateOfBirth": "31-12-1926",
+      "ancestry": "half-blood",
+      "patronus": "",
+      "hogwartsStudent": false,
+      "hogwartsStaff": false,
+      "description": "Lord Voldemort, the main antagonist in the 'Harry Potter' series, is a dark and powerful wizard obsessed with immortality and dominance. Formerly Tom Riddle, his quest for power leads him to commit heinous acts, seeking to conquer the wizarding world and destroy Harry Potter, the Boy Who Lived."
+    },
+    {
+      "id": "10",
+      "image": "https://ik.imagekit.io/hpapi/cedric.png",
+      "name": "Cedric Diggory",
+      "house": "Hufflepuff",
+      "dateOfBirth": "09-04-1977",
+      "ancestry": "half-blood",
+      "patronus": "",
+      "hogwartsStudent": true,
+      "hogwartsStaff": false,
+      "description": "Cedric Diggory, a talented and noble character in the 'Harry Potter' series, is a Hufflepuff student and skilled Quidditch player at Hogwarts. He exemplifies chivalry and fairness, representing the best values of his house. Tragically, he competes in the Triwizard Tournament and meets an untimely end, leaving a lasting impact on Harry and the wizarding community."
     }
   ]
 }
