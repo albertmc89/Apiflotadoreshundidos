@@ -1,0 +1,76 @@
+{
+  "harry_potter": [
+    {
+      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "image": "https://ik.imagekit.io/hpapi/harry.jpg",
+      "name": "Harry Potter",
+      "house": "Gryffindor",
+      "dateOfBirth": "31-07-1980",
+      "ancestry": "half-blood",
+      "patronus": "stag"
+    },
+    {
+      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "image": "https://ik.imagekit.io/hpapi/hermione.jpeg",
+      "name": "Hermione Granger",
+      "house": "Gryffindor",
+      "dateOfBirth": "19-09-1979",
+      "ancestry": "muggleborn",
+      "patronus": "otter"
+    },
+    {
+      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "image": "https://ik.imagekit.io/hpapi/cho.jpg",
+      "name": "Cho Chang",
+      "house": "Ravenclaw",
+      "dateOfBirth": "07-04-1979",
+      "ancestry": "half-blood",
+      "patronus": "swan"
+    },
+    {
+      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "image": "https://ik.imagekit.io/hpapi/snape.jpg",
+      "name": "Severus Snape",
+      "house": "Slytherin",
+      "dateOfBirth": "09-01-1960",
+      "ancestry": "half-blood",
+      "patronus": "doe"
+    },
+    {
+      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "image": "https://ik.imagekit.io/hpapi/luna.jpg",
+      "name": "Luna Lovegood",
+      "house": "Ravenclaw",
+      "dateOfBirth": "13-02-1981",
+      "ancestry": "half-blood",
+      "patronus": "hare"
+    },
+    {
+      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "image": "https://ik.imagekit.io/hpapi/voldemort.jpg",
+      "name": "Lord Voldemort",
+      "house": "Slytherin",
+      "dateOfBirth": "31-12-1926",
+      "ancestry": "half-blood",
+      "patronus": ""
+    },
+    {
+      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "image": "https://ik.imagekit.io/hpapi/cedric.png",
+      "name": "Cedric Diggory",
+      "house": "Hufflepuff",
+      "dateOfBirth": "09-04-1977",
+      "ancestry": "half-blood",
+      "patronus": ""
+    },
+    {
+      "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+      "image": "https://ik.imagekit.io/hpapi/mcgonagall.jpg",
+      "name": "Minerva McGonagall",
+      "house": "Gryffindor",
+      "dateOfBirth": "04-10-1925",
+      "ancestry": "half-blood",
+      "patronus": "tabby cat"
+    }
+  ]
+}
