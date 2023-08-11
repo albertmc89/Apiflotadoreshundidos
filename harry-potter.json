@@ -8,8 +8,7 @@
       "dateOfBirth": "31-07-1980",
       "ancestry": "half-blood",
       "patronus": "stag",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
+      "characterRole": "Student",
       "description": "Harry Potter, a young wizard, discovers his magical heritage at Hogwarts School. With friends Ron and Hermione, he faces dark forces, including the evil Lord Voldemort. An enchanting tale of magic, friendship, and bravery captivates readers worldwide."
     },
     {
@@ -20,8 +19,7 @@
       "dateOfBirth": "19-09-1979",
       "ancestry": "muggleborn",
       "patronus": "otter",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
+      "characterRole": "Student",
       "description": "Hermione Granger, a brilliant and resourceful witch in the 'Harry Potter' series, is Harry's loyal friend and Ron's clever companion. Her vast knowledge, dedication to justice, and unwavering bravery make her an indispensable part of their adventures at Hogwarts School of Witchcraft and Wizardry."
     },
     {
@@ -32,8 +30,7 @@
       "dateOfBirth": "01-03-1980",
       "ancestry": "pure-blood",
       "patronus": "Jack Russell terrier",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
+      "characterRole": "Student",
       "description": "Ron Weasley, a lovable character from the 'Harry Potter' series, is Harry's best friend and Hermione's loyal companion. Despite coming from a large, humble wizarding family, Ron's courage, humor, and unwavering loyalty make him an essential member of the trio as they face challenges at Hogwarts School of Witchcraft and Wizardry."
     },
     {
@@ -44,8 +41,7 @@
       "dateOfBirth": "05-06-1980",
       "ancestry": "pure-blood",
       "patronus": "",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
+      "characterRole": "Student",
       "description": "Draco Malfoy, a key character in the 'Harry Potter' series, is a cunning and arrogant Slytherin student at Hogwarts. His family's dark reputation and rivalry with Harry put him on a path of conflict, but he struggles with his own choices as he navigates the complex world of magic and morality."
     },
     {
@@ -56,8 +52,7 @@
       "dateOfBirth": "04-10-1925",
       "ancestry": "half-blood",
       "patronus": "tabby cat",
-      "hogwartsStudent": false,
-      "hogwartsStaff": false,
+      "characterRole": "Staff",
       "description": "Minerva McGonagall, a stern yet fair Hogwarts professor in the 'Harry Potter' series, is the Deputy Headmistress and Transfiguration teacher. With her animagus ability as a cat, she guides and protects students, including Harry, while upholding the school's traditions and values."
     },
     {
@@ -68,8 +63,7 @@
       "dateOfBirth": "07-04-1979",
       "ancestry": "half-blood",
       "patronus": "swan",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
+      "characterRole": "Student",
       "description": "Cho Chang, a character in the 'Harry Potter' series, is a Ravenclaw student at Hogwarts. As Harry's first crush, she is kind and skilled in Quidditch. Cho faces heartache and adversity, becoming a symbol of resilience and strength amidst the challenges of the wizarding world."
     },
     {
@@ -80,8 +74,7 @@
       "dateOfBirth": "09-01-1960",
       "ancestry": "half-blood",
       "patronus": "doe",
-      "hogwartsStudent": false,
-      "hogwartsStaff": true,
+      "characterRole": "Staff",
       "description": "Severus Snape, a complex character in the 'Harry Potter' series, is a skilled Potions Master and professor at Hogwarts. His dark demeanor hides a hidden loyalty and love for Lily Potter. He plays a pivotal role in protecting Harry while grappling with his past as a former Death Eater and his ambiguous alliances in the wizarding war."
     },
     {
@@ -92,8 +85,7 @@
       "dateOfBirth": "13-02-1981",
       "ancestry": "half-blood",
       "patronus": "hare",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
+      "characterRole": "Student",
       "description": "Luna Lovegood, a whimsical and unique character in the 'Harry Potter' series, is a Ravenclaw student known for her belief in magical creatures and extraordinary theories. Her open-mindedness, kindness, and unwavering loyalty make her a cherished friend to Harry and the trio, adding a touch of wonder to their adventures at Hogwarts School of Witchcraft and Wizardry."
     },
     {
@@ -104,8 +96,7 @@
       "dateOfBirth": "31-12-1926",
       "ancestry": "half-blood",
       "patronus": "",
-      "hogwartsStudent": false,
-      "hogwartsStaff": false,
+      "characterRole": "Student",
       "description": "Lord Voldemort, the main antagonist in the 'Harry Potter' series, is a dark and powerful wizard obsessed with immortality and dominance. Formerly Tom Riddle, his quest for power leads him to commit heinous acts, seeking to conquer the wizarding world and destroy Harry Potter, the Boy Who Lived."
     },
     {
@@ -116,8 +107,7 @@
       "dateOfBirth": "09-04-1977",
       "ancestry": "half-blood",
       "patronus": "",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
+      "characterRole": "Student",
       "description": "Cedric Diggory, a talented and noble character in the 'Harry Potter' series, is a Hufflepuff student and skilled Quidditch player at Hogwarts. He exemplifies chivalry and fairness, representing the best values of his house. Tragically, he competes in the Triwizard Tournament and meets an untimely end, leaving a lasting impact on Harry and the wizarding community."
     }
   ]
